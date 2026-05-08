@@ -133,32 +133,28 @@
 
 </td>
 
-<!-- RIGHT: STACKED ANIMATED GIFs — fully replaces static images -->
+<!-- RIGHT: STACKED ANIMATED GIFs -->
 <td width="50%" align="center" valign="top">
 
-<!-- GIF 1: Animated AI/robot working at computer (dark theme) -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
 
 <br/>
 
-<!-- GIF 2: Animated circuit / neural network pulse -->
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
 
 <br/>
 
-<!-- GIF 3: Animated coding / matrix rain style -->
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%"/>
 
 <br/>
 
-<!-- ANIMATED SKILL BADGE ROW INSIDE THE CELL -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=13&pause=1000&color=00F5FF&center=true&vCenter=true&width=420&height=35&lines=🤖+AI+Engineer+%7C+Builder+%7C+Automator;🌙+Midnight+Dev+%7C+Coffee-Powered;🚀+Shipping+AI+Products+Daily" alt="mini typing"/>
 
 </td>
 </tr>
 </table>
 
-<!-- STATUS BADGES ROW — shown right below the table -->
+<!-- STATUS BADGES ROW -->
 <div align="center">
 
 <br/>
@@ -171,7 +167,6 @@
 
 </div>
 
-<!-- ANIMATED SEPARATOR BELOW SECTION -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
 </div>
@@ -207,14 +202,16 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  LIVE ENVIRONMENT — RUNNING CODE                          -->
+<!--  LIVE ENVIRONMENT — RUNNING CODE  (FIXED ANIMATIONS)     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⚡ Live Environment
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </div>
 
@@ -251,6 +248,10 @@ me = KelvinJames()
 print(me.equation())
 # ➜  ☕ Coffee  +  🌙 Midnight  +  💻 Code  =  🚀 Innovation
 ```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+</div>
 
 ---
 
