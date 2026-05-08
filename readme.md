@@ -75,7 +75,7 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  IDENTITY MATRIX — FULLY ANIMATED RIGHT SIDE             -->
+<!--  IDENTITY MATRIX                                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -84,7 +84,6 @@
 
 </div>
 
-<!-- TOP ANIMATION ABOVE THE TABLE -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 </div>
@@ -93,7 +92,6 @@
 
 <table>
 <tr>
-<!-- LEFT: YAML card -->
 <td width="50%" valign="top">
 
 ```yaml
@@ -133,7 +131,6 @@
 
 </td>
 
-<!-- RIGHT: STACKED ANIMATED GIFs -->
 <td width="50%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
@@ -154,7 +151,6 @@
 </tr>
 </table>
 
-<!-- STATUS BADGES ROW -->
 <div align="center">
 
 <br/>
@@ -202,7 +198,7 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  LIVE ENVIRONMENT — RUNNING CODE  (FIXED ANIMATIONS)     -->
+<!--  LIVE ENVIRONMENT — ✅ FIXED ANIMATIONS TOP + BOTTOM      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -211,7 +207,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4c52-b8b3-2d28506553ee.gif" width="100%"/>
 
 </div>
 
@@ -352,14 +348,20 @@ print(me.equation())
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  FEATURED PROJECTS                                        -->
+<!--  FEATURED PROJECTS — ✅ FIXED ANIMATIONS TOP + BOTTOM     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&height=40&lines=🧠+AI+Merger+Risk+Analyzer+%7C+🛡️+NeoGuard+%7C+⚙️+ECM+System+%7C+🤖+AI+Data+Agent" alt="projects typing"/>
+
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -409,15 +411,25 @@ print(me.equation())
 </tr>
 </table>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
+</div>
+
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  FOCUS ROADMAP                                            -->
+<!--  FOCUS ROADMAP — ✅ FIXED ANIMATIONS TOP + BOTTOM         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🎯 Current Focus
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=7F00FF&center=true&vCenter=true&width=900&height=40&lines=🧠+Learning+New+AI+Skills+Every+Day;🔨+Building+Production+AI+Systems;🔭+Exploring+The+Frontier+of+Technology" alt="focus typing"/>
+
+<br/>
 
 | 🧠 Learning | 🔨 Building | 🔭 Exploring |
 |:-----------:|:-----------:|:------------:|
@@ -427,19 +439,29 @@ print(me.equation())
 | RAG Architectures | AI Backend APIs | Agentic Workflows |
 | Prompt Engineering | n8n Integrations | MCP Protocol |
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  GITHUB TROPHIES                                          -->
+<!--  GITHUB TROPHIES — ✅ FIXED ANIMATIONS TOP + BOTTOM       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🏆 GitHub Trophies
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Kelvin-art-hub&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4c52-b8b3-2d28506553ee.gif" width="100%"/>
 
 </div>
 
@@ -452,6 +474,8 @@ print(me.equation())
 <div align="center">
 
 ## 🌐 Connect With Me
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Kelvin-art-hub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
