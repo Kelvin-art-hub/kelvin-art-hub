@@ -1,6 +1,3 @@
-# README.md
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5FF,100:7F00FF&height=250&section=header&text=Kelvin%20James&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Automation%20Builder&descAlignY=58&descSize=18"/>
