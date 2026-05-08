@@ -1,105 +1,137 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,20:0A0F2C,40:0D0D2B,60:00F5FF,80:7F00FF,100:FF00FF&height=320&section=header&text=KELVIN%20JAMES&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Architect%20⚡&descAlignY=60&descSize=18&stroke=00F5FF&strokeWidth=2"/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,15:050816,35:0A0F2C,55:00F5FF,75:7F00FF,100:FF00FF&height=350&section=header&text=KELVIN%20JAMES&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Architect%20⚡&descAlignY=62&descSize=19&stroke=00F5FF&strokeWidth=3"/>
 
-<!-- ANIMATED TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=🚀+Building+AI+Systems+That+Matter;🤖+Autonomous+Agents+%7C+LLM+Pipelines+%7C+RAG+Systems;⚙️+n8n+Automation+%7C+FastAPI+%7C+Docker;🧠+Machine+Learning+%7C+Computer+Vision+%7C+NLP;🌌+Shipping+Production-Ready+AI+Products" alt="Typing SVG" />
+</div>
+
+<!-- ANIMATED ENVIRONMENT — FULL WIDTH CITY/CODE SCENE -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
+</div>
+
+<!-- TYPING ANIMATIONS -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=700&color=00F5FF&center=true&vCenter=true&width=1000&height=55&lines=🚀+Building+AI+Systems+That+Change+The+World;🤖+LLM+Pipelines+%7C+Autonomous+Agents+%7C+RAG+Systems;⚙️+n8n+Automation+%7C+FastAPI+%7C+Dockerized+Apps;🧠+Machine+Learning+%7C+Computer+Vision+%7C+NLP;🌌+Shipping+Production-Ready+AI+at+Midnight;☕+Coffee+%2B+Neon+%2B+Code+%3D+Everything" />
+
+</div>
 
 <br/>
 
-<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4c52-b8b3-2d28506553ee.gif" width="100%"/>
 
-<br/>
+<!-- LIVE BADGES — FIXED WITH CORRECT USERNAME -->
+<div align="center">
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=00F5FF&labelColor=0D1117&style=for-the-badge&logo=github&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?color=7F00FF&labelColor=0D1117&style=for-the-badge&logo=github&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kelvin-art-hub&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Kelvin-art-hub?color=00F5FF&labelColor=0D1117&style=for-the-badge&logo=github&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/Kelvin-art-hub?color=7F00FF&labelColor=0D1117&style=for-the-badge&logo=github&label=TOTAL+STARS)
 
 </div>
 
 ---
 
+<!-- SYSTEM BOOT SEQUENCE -->
 <div align="center">
 
-## 🌌 `< SYSTEM BOOT SEQUENCE />` 🌌
+## 🖥️ `< SYSTEM BOOT SEQUENCE />`
 
 </div>
 
 ```bash
-██╗  ██╗███████╗██╗     ██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔════╝██║     ██║   ██║██║████╗  ██║
-█████╔╝ █████╗  ██║     ██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ██║     ╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗███████╗███████╗ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+ ██╗  ██╗███████╗██╗    ██╗   ██╗██╗███╗  ██╗     ██╗ █████╗ ███╗  ███╗███████╗███████╗
+ ██║ ██╔╝██╔════╝██║    ██║   ██║██║████╗ ██║     ██║██╔══██╗████╗████║██╔════╝██╔════╝
+ █████╔╝ █████╗  ██║    ██║   ██║██║██╔██╗██║     ██║███████║██╔████╔██║█████╗  ███████╗
+ ██╔═██╗ ██╔══╝  ██║    ╚██╗ ██╔╝██║██║╚████║██   ██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║
+ ██║  ██╗███████╗███████╗╚████╔╝ ██║██║ ╚███║╚█████╔╝██║  ██║██║ ╚═╝ ██║███████╗███████║
+ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═══╝  ╚═╝╚═╝  ╚══╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
 
-> Initializing AI Systems...       [████████████████████] 100% ✅
-> Loading Full Stack Modules...    [████████████████████] 100% ✅
-> Deploying Automation Agents...   [████████████████████] 100% ✅
-> Calibrating Neural Networks...   [████████████████████] 100% ✅
-> System Ready. Welcome. 🟢
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║  > BOOTING NEURAL INTERFACE...                                                       ║
+║                                                                                      ║
+║  [AI_ENGINE]       Initializing LLM Pipelines...      [████████████████████] 100% ✅ ║
+║  [ML_CORE]         Loading Neural Networks...          [████████████████████] 100% ✅ ║
+║  [AUTOMATION]      Deploying n8n Agents...             [████████████████████] 100% ✅ ║
+║  [FULL_STACK]      Mounting React + FastAPI...         [████████████████████] 100% ✅ ║
+║  [DEVOPS]          Spinning Up Docker Containers...    [████████████████████] 100% ✅ ║
+║  [VISION_SYS]      Calibrating Computer Vision...      [████████████████████] 100% ✅ ║
+║  [CREATIVITY]      Brewing Coffee ☕...                [████████████████████] 100% ✅ ║
+║                                                                                      ║
+║  ▶  ALL SYSTEMS ONLINE — KELVIN JAMES IS READY TO BUILD.  🟢                        ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+<!-- ANIMATED ENVIRONMENT — CODING SCENE -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</div>
+
+---
+
+<!-- ABOUT ME -->
 <div align="center">
 
-## 👾 About The Engineer
+## 👾 Identity Matrix
 
 </div>
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
 ```yaml
-┌─────────────────────────────────────────┐
-│         IDENTITY MATRIX v3.0            │
-├─────────────────────────────────────────┤
-│  Name      : Kelvin James               │
-│  Role      : AI Engineer                │
-│              Full Stack Developer       │
-│              Automation Architect       │
-│  Location  : India 🇮🇳                  │
-│  Status    : 🟢 Open To Work            │
-├─────────────────────────────────────────┤
-│  CORE STACK:                            │
-│  ├─ AI Agents & LLM Systems             │
-│  ├─ Machine Learning & Deep Learning    │
-│  ├─ Computer Vision & NLP               │
-│  ├─ FastAPI + Docker + PostgreSQL       │
-│  ├─ React + Next.js + Node.js           │
-│  └─ n8n Automation & Workflow Eng.      │
-├─────────────────────────────────────────┤
-│  CURRENT BUILDS:                        │
-│  ├─ 🧠 AI Merger Risk Analyzer          │
-│  ├─ ⚙️  ECM System (BOM Management)    │
-│  ├─ 🛡️  NeoGuard Security System       │
-│  ├─ 🤖 AI Agent for Data Science        │
-│  └─ 🔄 Smart Automation Platforms       │
-├─────────────────────────────────────────┤
-│  PHILOSOPHY:                            │
-│  ├─ Execution > Ideas                   │
-│  ├─ Consistency > Motivation            │
-│  ├─ Discipline > Excuses                │
-│  └─ Ship Fast → Iterate Faster          │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│           IDENTITY_MATRIX.yaml  v4.0          │
+├──────────────────────────────────────────────┤
+│  Name      : Kelvin James                     │
+│  Role      : AI Engineer                      │
+│              Full Stack Developer             │
+│              Automation Architect             │
+│  Location  : India 🇮🇳                        │
+│  Status    : 🟢 ONLINE — Open To Work         │
+│  Mode      : 🌙 Midnight Builder              │
+├──────────────────────────────────────────────┤
+│  CORE_SPECIALIZATIONS:                        │
+│  ├─ 🤖 AI Agents & Autonomous Systems         │
+│  ├─ 🧠 LLM Pipelines & RAG Architectures      │
+│  ├─ 👁️  Computer Vision & Deep Learning       │
+│  ├─ ⚡ FastAPI + Docker + PostgreSQL           │
+│  ├─ 🌐 React + Next.js + Node.js              │
+│  └─ 🔄 n8n Automation & Workflow Eng.         │
+├──────────────────────────────────────────────┤
+│  ACTIVE_BUILDS:                               │
+│  ├─ 🧠 AI Merger Risk Analyzer                │
+│  ├─ ⚙️  ECM System (BOM Management)          │
+│  ├─ 🛡️  NeoGuard Security Platform           │
+│  ├─ 🤖 AI Agent for Data Science              │
+│  └─ 🔄 Smart Automation Platforms             │
+├──────────────────────────────────────────────┤
+│  ENGINEERING_PHILOSOPHY:                      │
+│  ├─ ⚡ Execution  >  Ideas                    │
+│  ├─ 🔥 Discipline >  Motivation               │
+│  ├─ 🚀 Ship Fast  →  Iterate Faster           │
+│  └─ 💎 Consistency Creates Mastery            │
+└──────────────────────────────────────────────┘
 ```
 
 </td>
-<td width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<td width="48%" align="center" valign="top">
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80px"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60px"/>
 
 </td>
 </tr>
@@ -107,91 +139,148 @@
 
 ---
 
+<!-- MIDNIGHT DEVELOPER ZONE -->
 <div align="center">
 
-## 🌃 The Midnight Developer Zone
+## 🌃 Midnight Developer Zone
 
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100%"/>
 
-> *"The best systems are built when the world is sleeping."*
-> **☕ Coffee + Neon + Code + Midnight = Innovation**
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║   ☕ 02:34 AM  |  🎵 Lo-Fi Beats  |  ⌨️ 120 WPM  |  🟢 In Flow   ║
+║                                                                   ║
+║       💻 VSCode     🐳 Docker     🔥 FastAPI     🤖 LangChain     ║
+║                                                                   ║
+║   "The best systems are built when the world is sleeping."        ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
+<!-- LIVE ENVIRONMENT — RUNNING CODE -->
+<div align="center">
+
+## ⚡ Live Environment
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>
+
+</div>
+
+```python
+# kelvin_james.py — Running 24/7 🟢
+
+class KelvinJames:
+    def __init__(self):
+        self.name        = "Kelvin James"
+        self.role        = ["AI Engineer", "Full Stack Dev", "Automation Architect"]
+        self.location    = "India 🇮🇳"
+        self.coffee      = float('inf')   # Never runs out ☕
+        self.sleep       = 0              # Optional module
+
+        self.ai_stack    = ["LangChain", "OpenAI", "HuggingFace", "Ollama", "PyTorch"]
+        self.ml_stack    = ["Scikit-learn", "TensorFlow", "OpenCV", "Pandas", "NumPy"]
+        self.web_stack   = ["FastAPI", "React", "Next.js", "Node.js", "PostgreSQL"]
+        self.devops      = ["Docker", "GitHub Actions", "Linux", "Postman"]
+        self.automation  = ["n8n", "Webhooks", "REST APIs", "MCP Servers"]
+
+    def current_status(self):
+        return {
+            "building"   : ["AI Merger Risk Analyzer", "ECM System", "NeoGuard"],
+            "learning"   : ["Multi-Agent Systems", "LangGraph", "Fine-Tuning LLMs"],
+            "open_to"    : ["Internships", "Full-Time", "Freelance", "Remote"],
+        }
+
+    def life_equation(self):
+        return "☕ Coffee + 🌙 Midnight + 💻 Code = 🚀 Innovation"
+
+me = KelvinJames()
+print(me.life_equation())
+# Output: ☕ Coffee + 🌙 Midnight + 💻 Code = 🚀 Innovation
+```
+
+---
+
+<!-- TECH ARSENAL -->
 <div align="center">
 
 ## ⚡ Tech Arsenal
 
-</div>
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
 
 ### 🚀 Core Languages
-
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark&perline=5"/>
 
-### 🧠 AI / ML / Data Science Stack
+<br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=5"/>
+### 🧠 AI / ML / Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
 
+&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-00F5FF?style=for-the-badge)
+
+<br/>
 
 ### 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,html,css&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,html,css&theme=dark&perline=6"/>
+<br/>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark&perline=5"/>
+<br/>
 
-### ⚙️ DevOps & Tooling
+### ⚙️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark&perline=6"/>
+<br/>
 
-### 🔥 Automation Stack
-
+### 🔥 Automation & Integration
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhooks-00F5FF?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0078D4?style=for-the-badge&logo=fastapi&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-7F00FF?style=for-the-badge&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhooks-00F5FF?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-0078D4?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Servers-7F00FF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF00FF?style=for-the-badge)
 
 </div>
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+---
+
+<!-- GITHUB ANALYTICS -->
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7F00FF&text_color=ffffff&ring_color=FF00FF&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=ffffff&langs_count=8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kelvin-art-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=7F00FF&text_color=ffffff&ring_color=FF00FF&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-art-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=ffffff&langs_count=8"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=7F00FF&dates=7F00FF&stroke=0D1117"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Kelvin-art-hub&theme=tokyonight&hide_border=true&background=050816&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=7F00FF&dates=7F00FF&stroke=0D1117"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kelvin-art-hub&bg_color=050816&color=00F5FF&line=7F00FF&point=FF00FF&area=true&area_color=00F5FF20&hide_border=true&custom_title=Kelvin's%20Contribution%20Activity"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00F5FF&line=7F00FF&point=FF00FF&area=true&area_color=00F5FF&hide_border=true"/>
-
-</div>
-
----
-
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
 ## 🐍 Contribution Snake
@@ -206,9 +295,12 @@
 
 ---
 
+<!-- FEATURED PROJECTS -->
 <div align="center">
 
 ## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
 
 </div>
 
@@ -217,11 +309,11 @@
 <td width="50%" valign="top">
 
 ### 🧠 AI Merger Risk Analyzer
-![ML](https://img.shields.io/badge/ML-Powered-00F5FF?style=flat-square)
+![ML](https://img.shields.io/badge/ML-Powered-00F5FF?style=flat-square&logo=tensorflow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-7F00FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building-FF00FF?style=flat-square)
+![Status](https://img.shields.io/badge/🔨-Building-FF00FF?style=flat-square)
 
-> Predicts merger risks using advanced ML models, financial intelligence, and business analytics. Real-time risk scoring with explainable AI outputs.
+> Predicts merger & acquisition risks using advanced ML models, financial intelligence, and business analytics. Real-time scoring with explainable AI outputs.
 
 **Stack:** `Python` `FastAPI` `Scikit-learn` `PostgreSQL` `Docker`
 
@@ -230,8 +322,9 @@
 ### 🛡️ NeoGuard
 ![AI](https://img.shields.io/badge/AI-Security-00F5FF?style=flat-square)
 ![Vision](https://img.shields.io/badge/Computer-Vision-7F00FF?style=flat-square)
+![Status](https://img.shields.io/badge/🔨-Building-FF00FF?style=flat-square)
 
-> Smart AI-powered security monitoring system with real-time threat detection and automated alert pipelines.
+> Smart AI-powered security monitoring platform with real-time threat detection, anomaly alerts, and automated response pipelines.
 
 **Stack:** `OpenCV` `PyTorch` `FastAPI` `Docker` `n8n`
 
@@ -241,8 +334,9 @@
 ### ⚙️ ECM System
 ![BOM](https://img.shields.io/badge/BOM-Management-00F5FF?style=flat-square)
 ![Enterprise](https://img.shields.io/badge/Enterprise-Grade-7F00FF?style=flat-square)
+![Status](https://img.shields.io/badge/🔨-Building-FF00FF?style=flat-square)
 
-> AI-enhanced Engineering Change Management system for BOM management. Production-ready with full audit trail.
+> AI-enhanced Engineering Change Management for BOM tracking, revision control, and full audit trails. Production-grade system.
 
 **Stack:** `FastAPI` `Docker` `PostgreSQL` `React` `n8n`
 
@@ -251,8 +345,9 @@
 ### 🤖 AI Agent for Data Science
 ![Autonomous](https://img.shields.io/badge/Autonomous-Agent-00F5FF?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-Powered-7F00FF?style=flat-square)
+![Status](https://img.shields.io/badge/🔨-Building-FF00FF?style=flat-square)
 
-> Autonomous AI assistant that generates analytics workflows, writes and executes code, and creates data visualizations on demand.
+> Autonomous AI assistant that generates analytics workflows, writes and executes code, and answers data questions on demand.
 
 **Stack:** `LangChain` `OpenAI` `Python` `FastAPI` `React`
 
@@ -262,20 +357,17 @@
 
 ---
 
+<!-- CURRENT FOCUS -->
 <div align="center">
 
 ## 🎯 Current Focus & Roadmap
-
-</div>
-
-<div align="center">
 
 | 🧠 Learning | 🔨 Building | 🔭 Exploring |
 |:-----------:|:-----------:|:------------:|
 | Advanced AI Agents | Automation SaaS Platforms | Multi-Agent Systems |
 | Production MLOps | Full Stack AI Apps | LLM Fine-Tuning |
-| LangGraph & Crew AI | Smart Dashboards | Vector Databases |
-| RAG Architectures | AI-Powered APIs | Agentic Workflows |
+| LangGraph + CrewAI | Smart Dashboards | Vector Databases |
+| RAG Architectures | AI-Powered Backend APIs | Agentic Workflows |
 | Prompt Engineering | n8n Integrations | MCP Protocol |
 
 </div>
@@ -283,15 +375,23 @@
 ---
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
+</div>
+
+---
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kelvin-art-hub&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 
 </div>
 
 ---
 
+<!-- CONNECT -->
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -300,7 +400,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Kelvin-art-hub">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -320,54 +420,58 @@
 
 ---
 
+<!-- OPEN TO WORK -->
 <div align="center">
 
 ## 💼 Open To Work
 
-<img src="https://img.shields.io/badge/🟢%20Available%20For-Internships-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20AVAILABLE-Internships-success?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🟢%20Available%20For-Full%20Time-0077B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20AVAILABLE-Full%20Time-0077B5?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🟢%20Available%20For-Freelance-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20AVAILABLE-Freelance-7F00FF?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🟢%20Available%20For-Remote%20Projects-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20AVAILABLE-Remote%20Projects-FF4500?style=for-the-badge"/>
 
 <br/><br/>
 
-> **AI Engineer • ML Engineer • Full Stack Developer • Backend Developer • Automation Engineer**
+> ### **AI Engineer • ML Engineer • Full Stack Developer • Automation Engineer**
 
 </div>
 
 ---
 
+<!-- FINAL TRANSMISSION -->
 <div align="center">
 
 ## ☕ Final Transmission
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=2500&color=00F5FF&center=true&vCenter=true&width=900&lines=Code+Hard+%7C+Build+Smart+%7C+Stay+Consistent+💎;Coffee+is+Temporary+but+Great+Code+is+Forever+☕;Discipline+Creates+Everything+🔥;The+Future+Belongs+To+Builders+🚀;Every+Commit+is+a+Step+Forward+⚡"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=2000&color=00F5FF&center=true&vCenter=true&width=900&height=45&lines=Code+Hard+%7C+Build+Smart+%7C+Stay+Consistent+💎;Coffee+is+Temporary+but+Great+Code+is+Forever+☕;Discipline+Creates+Everything+🔥;The+Future+Belongs+To+Builders+🚀;Every+Commit+is+a+Step+Forward+⚡;Midnight+Sessions+Build+Empires+🌙"/>
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The best way to predict the future is to build it."      ║
-║                                          — Kelvin James      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    "The best way to predict the future is to engineer it."          ║
+║                                                     — Kelvin James  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-⭐ **If my work adds value to you, drop a star — it powers the next build!** ⭐
+⭐ **If my work adds value to you — drop a star. It fuels the next build at 2 AM.** ⭐
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4c52-b8b3-2d28506553ee.gif" width="100%"/>
 
 <!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:7F00FF,60:00F5FF,100:050816&height=180&section=footer&text=Let%27s%20Build%20The%20Future&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:7F00FF,60:00F5FF,100:050816&height=200&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
 </div>
