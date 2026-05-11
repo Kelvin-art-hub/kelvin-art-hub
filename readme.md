@@ -1,10 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=3400&pause=1600&color=007AFF&center=true&vCenter=true&width=980&lines=Ankit+Kumar+Singh;iOS-first+Product+Engineer;SwiftUI+%7C+Hushh+Agents+%7C+Consent-aware+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=3400&pause=1600&color=007AFF&center=true&vCenter=true&width=980&lines=Kelvin+James;AI+Engineer+%7C+Full+Stack+Developer;LLM+Pipelines+%7C+Autonomous+Agents+%7C+Automation+Architect)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ankitkumarsingh1702-007AFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/ankitkumarsingh1702)
-[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-Apple--first%20product%20systems-001F3F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/hushh-labs)
-[![Design System](https://img.shields.io/badge/Design-iOS%20HIG%20%2B%20Web%20A11y-007AFF?style=for-the-badge&labelColor=000000)](#design-principles)
+[![GitHub](https://img.shields.io/badge/GitHub-Kelvin--art--hub-007AFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/Kelvin-art-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-007AFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-001F3F?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000)](https://YOUR_PORTFOLIO.com)
+[![Status](https://img.shields.io/badge/Status-Open%20To%20Work-2ea44f?style=for-the-badge&labelColor=000000)](#connect)
 
 </div>
 
@@ -12,38 +13,52 @@
 
 ## Mission
 
-I build Hushh/Hushh product systems with an Apple-first, iOS-first design bias: clear hierarchy, accessible interaction, calm motion, safe defaults, and automation that makes releases easier to trust.
+I build production-ready AI systems end-to-end — from LLM pipelines and autonomous agents to full stack backends and smart automation workflows. My engineering bias is toward execution: ship fast, verify with real checks, and iterate until it works in the real world.
 
-My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-labs), especially Hushh Agents, Hushh Tech Website, research/product workflows, consent-aware backends, and developer operations.
+My strongest public signal lives inside [`Kelvin-art-hub`](https://github.com/Kelvin-art-hub), especially AI agents, RAG systems, computer vision pipelines, FastAPI backends, and n8n automation platforms.
 
 | Profile Lock | Value |
 | --- | --- |
-| Primary platform | iOS first, then web and macOS |
-| Visual system | Black, white, navy, Apple iOS blue |
-| Typography target | Manrope for controllable SVG/profile assets |
-| Product focus | Hushh Agents, RIA workflows, consent-aware AI, metrics, release automation |
-| Engineering posture | Small useful system, automated verification, human-readable tradeoffs |
+| Primary focus | AI Engineering — LLM pipelines, RAG, autonomous agents |
+| Secondary focus | Full stack — React, Next.js, FastAPI, PostgreSQL |
+| Automation stack | n8n, webhooks, MCP servers, REST APIs |
+| Engineering posture | Ship fast, automate verification, build for production |
+| Mode | Midnight builder — discipline over motivation |
 
 ---
 
-## Design Principles
+## Specializations
 
 | Skill lens | How I apply it |
 | --- | --- |
-| iOS HIG | Prioritize clear navigation, 44pt-equivalent touch targets, thumb-zone primary actions, safe-area thinking, Dynamic Type-friendly layouts, and contextual permission asks. |
-| macOS HIG | Keep advanced workflows discoverable through command surfaces, keyboard-friendly actions, sidebar-style information architecture, and power-user clarity. |
-| Web accessibility | Use semantic structure, visible focus, responsive layouts, sufficient contrast, descriptive alt text, and reduced decorative motion. |
+| AI & LLM Engineering | Design and deploy LLM pipelines, RAG architectures, multi-agent systems, and fine-tuned models using LangChain, LangGraph, OpenAI, HuggingFace, and Ollama. |
+| Computer Vision & ML | Build real-time CV systems with OpenCV and PyTorch, train deep learning models with TensorFlow, and deploy production-grade inference pipelines. |
+| Full Stack & Backend | Ship responsive React/Next.js frontends backed by FastAPI services, PostgreSQL databases, Docker containers, and GitHub Actions CI. |
+| Automation Architecture | Design smart automation workflows with n8n, webhook integrations, MCP servers, and agentic AI pipelines that run 24/7. |
 
 ---
 
 ## Currently Shipping
 
-| Surface | What I build | Public signal |
+| Surface | What I build | Status |
 | --- | --- | --- |
-| Hushh Agents for iOS | SwiftUI agent discovery, onboarding, profiles, auth flows, and release/TestFlight work | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
-| Hushh Tech Website | Product surfaces, API wrappers, Supabase paths, tests, CI, security, and repo governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
-| Hushh Research | RIA access flows, personal-data experiments, backend service paths, and contribution governance | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
-| Consent Protocol | FastAPI consent-first backend paths for personal data agents and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
+| AI Merger Risk Analyzer | ML-powered M&A risk scoring with explainable AI and real-time financial intelligence | 🔨 Building |
+| NeoGuard Security Platform | Computer vision threat detection with automated response pipelines and real-time alerting | 🔨 Building |
+| ECM System | AI-enhanced Engineering Change Management with BOM tracking and full audit trail | 🔨 Building |
+| AI Data Science Agent | Autonomous LLM agent that writes code, generates analytics workflows, and creates visualizations | 🔨 Building |
+| Smart Automation Platforms | n8n-powered automation SaaS with webhook integrations and agentic AI workflows | 🔨 Building |
+
+---
+
+## Featured Work
+
+| Project | Stack | Signal |
+| --- | --- | --- |
+| [`AI Merger Risk Analyzer`](https://github.com/Kelvin-art-hub) | Python, FastAPI, Scikit-learn, PostgreSQL, Docker | Predicts M&A risks using ML models and financial intelligence with real-time explainable scoring |
+| [`NeoGuard`](https://github.com/Kelvin-art-hub) | OpenCV, PyTorch, FastAPI, Docker, n8n | Smart AI security monitoring with real-time CV threat detection and automated response |
+| [`ECM System`](https://github.com/Kelvin-art-hub) | FastAPI, Docker, PostgreSQL, React, n8n | Enterprise-grade BOM management with AI-enhanced change tracking and full audit trail |
+| [`AI Data Science Agent`](https://github.com/Kelvin-art-hub) | LangChain, OpenAI, Python, FastAPI, React | Autonomous agent that writes code, analytics workflows, and visualizations on demand |
+| [`Smart Automation Platforms`](https://github.com/Kelvin-art-hub) | n8n, FastAPI, Webhooks, MCP, Docker | Production automation systems with agentic AI and multi-step workflow orchestration |
 
 ---
 
@@ -51,64 +66,23 @@ My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-
 
 <div align="center">
 
-![GitHub commitment signal](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
+![GitHub commitment signal](https://github-readme-stats.vercel.app/api?username=Kelvin-art-hub&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
 
-![Daily public contribution map](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvin-art-hub&layout=compact&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F&langs_count=8)
 
-![Streak](https://streak-stats.demolab.com?user=ankitkumarsingh1702&theme=dark&hide_border=true&background=000000&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&sideLabels=FFFFFF&dates=888888&stroke=001F3F)
+![Daily public contribution map](https://github-readme-activity-graph.vercel.app/graph?username=Kelvin-art-hub&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
+
+![Streak](https://streak-stats.demolab.com?user=Kelvin-art-hub&theme=dark&hide_border=true&background=000000&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&sideLabels=FFFFFF&dates=888888&stroke=001F3F)
 
 </div>
 
 <div align="center">
 
-![Hushh Tech latest](https://img.shields.io/github/last-commit/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20latest&labelColor=000000&color=007AFF)
-![Hushh Tech monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20monthly&labelColor=000000&color=001F3F)
-![Research latest](https://img.shields.io/github/last-commit/hushh-labs/hushh-research?style=for-the-badge&label=Research%20latest&labelColor=000000&color=007AFF)
-![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest&labelColor=000000&color=001F3F)
+![Profile Views](https://komarev.com/ghpvc/?username=Kelvin-art-hub&color=007AFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Kelvin-art-hub?color=007AFF&labelColor=000000&style=for-the-badge&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Kelvin-art-hub?color=001F3F&labelColor=000000&style=for-the-badge&logo=github&label=TOTAL+STARS)
 
 </div>
-
----
-
-## Featured Work
-
-<div align="center">
-
-[![Hushh Agents Clean](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsingh1702&repo=hushh-agents-clean&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/ankitkumarsingh1702/hushh-agents-clean)
-[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh_Tech_website)
-
-</div>
-
-| Project | Stack | Design/engineering signal |
-| --- | --- | --- |
-| [`hushh-agents`](https://github.com/hushh-labs/hushh-agents) | SwiftUI, Supabase, iOS | Browse-first RIA discovery with onboarding, profile flows, and iOS-native interaction patterns |
-| [`hushh-agents-clean`](https://github.com/ankitkumarsingh1702/hushh-agents-clean) | TypeScript, React, Vite, Supabase | Agent-discovery prototype with mobile-first onboarding, data capture, functions, and migrations |
-| [`hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) | React, TypeScript, Vite, Supabase | Product web surfaces, API wrappers, metrics, tests, security hygiene, and repo governance |
-| [`hushh-research`](https://github.com/hushh-labs/hushh-research) | TypeScript, Python, MCP | Research/product monorepo work around RIA access, backend services, tests, and governance |
-| [`consent-protocol`](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend in the Hushh personal-data-agent ecosystem |
-
----
-
-## Stack
-
-<div align="center">
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=FFFFFF&labelColor=000000)
-![iOS](https://img.shields.io/badge/iOS-001F3F?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007AFF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
-![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-007AFF?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-001F3F?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-007AFF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
-
-</div>
-
-| Zone | Tools and patterns |
-| --- | --- |
-| Apple/mobile | SwiftUI, iOS onboarding, profile flows, release/TestFlight paths |
-| Web product | TypeScript, React, Vite, responsive UI, semantic structure |
-| Backend | Python, FastAPI, Supabase, consent and auth boundaries |
-| Automation | GitHub Actions, branch protection, smoke tests, release verification |
 
 ---
 
@@ -116,19 +90,61 @@ My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ankitkumarsingh1702&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kelvin-art-hub&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7)
 
 </div>
 
 ---
 
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-007AFF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-001F3F?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-007AFF?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000)
+![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-007AFF?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=000000)
+![LangChain](https://img.shields.io/badge/LangChain-007AFF?style=for-the-badge&logoColor=FFFFFF&labelColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-001F3F?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007AFF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=000000)
+![n8n](https://img.shields.io/badge/n8n-001F3F?style=for-the-badge&logo=n8n&logoColor=FFFFFF&labelColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-007AFF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-001F3F?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+| Zone | Tools and patterns |
+| --- | --- |
+| AI / LLM | LangChain, LangGraph, OpenAI, HuggingFace, Ollama, RAG, multi-agent systems, prompt engineering |
+| ML / CV | PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, deep learning, model deployment |
+| Full stack | React, Next.js, Node.js, TypeScript, HTML, CSS, responsive UI |
+| Backend | Python, FastAPI, PostgreSQL, MongoDB, MySQL, Redis, REST APIs |
+| DevOps | Docker, GitHub Actions, Linux, Postman, CI/CD pipelines |
+| Automation | n8n, webhooks, MCP servers, agentic AI workflows, Zapier |
+
+---
+
+## Current Focus
+
+| Learning | Building | Exploring |
+| --- | --- | --- |
+| Advanced AI agents | Automation SaaS | Multi-agent systems |
+| Production MLOps | Full stack AI apps | LLM fine-tuning |
+| LangGraph + CrewAI | Smart dashboards | Vector databases |
+| RAG architectures | AI backend APIs | Agentic workflows |
+| Prompt engineering | n8n integrations | MCP protocol |
+
+---
+
 ## Operating System
 
-- Default to the simplest navigable surface before adding more interaction.
-- Keep primary paths obvious and secondary actions discoverable.
-- Prefer native platform patterns over custom cleverness.
-- Verify with scripts, probes, and repeatable checks before calling anything done.
-- Document tradeoffs where the next engineer will actually need them.
+- Execution beats ideas — ship something real before refining the concept.
+- Discipline over motivation — consistency compounds into mastery.
+- Build for production from day one, not as an afterthought.
+- Automate verification — if you can't check it repeatably, it isn't done.
+- Midnight sessions are when real systems get built.
 
 ---
 
@@ -136,14 +152,18 @@ My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-007AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ankitkumarsingh1702)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-001F3F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-007AFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-001F3F?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Kelvin-art-hub)
+[![Email](https://img.shields.io/badge/Email-Contact-007AFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:yourmail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-001F3F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-007AFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://YOUR_PORTFOLIO.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkumarsingh1702&color=007AFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Available — Internships](https://img.shields.io/badge/Available-Internships-2ea44f?style=for-the-badge&labelColor=000000)
+![Available — Full Time](https://img.shields.io/badge/Available-Full%20Time-007AFF?style=for-the-badge&labelColor=000000)
+![Available — Freelance](https://img.shields.io/badge/Available-Freelance-001F3F?style=for-the-badge&labelColor=000000)
+![Available — Remote](https://img.shields.io/badge/Available-Remote-2ea44f?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -151,6 +171,8 @@ My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-
 
 <div align="center">
 
-*iOS-first · Consent-aware · Ship it, then make it better.*
+*AI Engineer · Full Stack Developer · Automation Architect*
+
+*"The best way to predict the future is to engineer it."*
 
 </div>
